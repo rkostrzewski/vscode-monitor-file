@@ -3,7 +3,8 @@
     "displayName": "Monitor File",
     "description": "An extension that forecefully reloads file.",
     "version": "0.4.0",
-    "publisher": "rkostrzewski (http://github.com/rkostrzewski)",
+    "publisher": "rkostrzewski",
+    "author": "rkostrzewski (http://github.com/rkostrzewski)",
     "license": "MIT",
     "repository": {
         "type": "git",
