@@ -2,7 +2,7 @@
     "name": "monitor-file",
     "displayName": "Monitor File",
     "description": "An extension that forecefully reloads file.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "rkostrzewski",
     "author": "rkostrzewski (http://github.com/rkostrzewski)",
     "license": "MIT",
