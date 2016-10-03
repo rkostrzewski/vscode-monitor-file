@@ -1,3 +1,5 @@
+[![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/rkostrzewski.monitor-file.svg)](https://marketplace.visualstudio.com/items?itemName=rkostrzewski.monitor-file) [![Installs](https://vsmarketplacebadge.apphb.com/installs/rkostrzewski.monitor-file.svg)](https://marketplace.visualstudio.com/items?itemName=rkostrzewski.monitor-file) [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/rkostrzewski.monitor-file.svg)](https://marketplace.visualstudio.com/items?itemName=rkostrzewski.monitor-file) [![Build Status](https://travis-ci.org/rkostrzewski/vscode-monitor-file.svg)](https://travis-ci.org/rkostrzewski/vscode-monitor-file) [![Dependency Status](https://david-dm.org/rkostrzewski/vscode-monitor-file/status.svg)](https://david-dm.org/rkostrzewski/vscode-monitor-file)
+
 # Monitor File
 
 ## Synposis
