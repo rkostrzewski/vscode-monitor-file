@@ -1,8 +1,8 @@
 {
-    "name": "vscode-monitor-file",
-    "displayName": "vscode-monitor-file",
+    "name": "monitor-file",
+    "displayName": "Monitor File",
     "description": "An extension that forecefully reloads file.",
-    "version": "0.0.1",
+    "version": "0.0.0",
     "publisher": "rkostrzewski",
     "engines": {
         "vscode": "^1.5.0"
@@ -21,7 +21,7 @@
             "title": "Monitor File"
         }, {
             "command": "extension.monitorFileCustom",
-            "title": "Monitor File with custom Interval"
+            "title": "Monitor File: Custom Interval"
         }]
     },
     "scripts": {
