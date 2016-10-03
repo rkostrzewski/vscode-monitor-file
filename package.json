@@ -2,7 +2,7 @@
     "name": "monitor-file",
     "displayName": "Monitor File",
     "description": "An extension that forecefully reloads file.",
-    "version": "0.4.0",
+    "version": "1.0.0",
     "publisher": "rkostrzewski",
     "author": "rkostrzewski (http://github.com/rkostrzewski)",
     "license": "MIT",
@@ -23,13 +23,16 @@
     ],
     "main": "./out/src/extension",
     "contributes": {
-        "commands": [{
-            "command": "extension.monitorFile",
-            "title": "Monitor File"
-        }, {
-            "command": "extension.monitorFileCustom",
-            "title": "Monitor File: Custom Interval"
-        }]
+        "commands": [
+            {
+                "command": "extension.monitorFile",
+                "title": "Monitor File"
+            },
+            {
+                "command": "extension.monitorFileCustom",
+                "title": "Monitor File: Custom Interval"
+            }
+        ]
     },
     "scripts": {
         "vscode:prepublish": "./node_modules/.bin/tsc -p ./",
